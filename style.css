@@ -1,0 +1,16 @@
+#chronoField{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 5rem;
+    width: fit-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#btn-text{
+    display: block;
+    position: relative;   
+    margin: 1rem;
+    left: 20px;
+}
